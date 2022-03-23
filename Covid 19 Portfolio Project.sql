@@ -1,9 +1,9 @@
 /*
-Covid 19 Data Exploration using Microsoft SQL Server Management Studio
+Covid 19 data exploration using Microsoft SQL Server Management Studio.
 
 Created and uploaded two tables, based on data available on https://ourworldindata.org/covid-deaths
 
-Included: basic queries, joins, CTEs, temp tables, windows functions, aggregate functions, creating views, converting data types
+Included: basic queries, Joins, CTEs, Temp Tables, Window functions, Aggregate functions, creating views, converting data types.
 
 */
 
