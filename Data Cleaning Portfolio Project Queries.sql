@@ -1,10 +1,10 @@
 /*
 
-Cleaning Data in SQL using Microsoft SQL Server Management Studio
+Cleaning data in SQL using Microsoft SQL Server Management Studio.
 
-Created and uploaded a table, based on public Nashville housing sales data
+Created and uploaded a table, based on public Nashville housing sales data.
 
-Included: basic queries, CONVERT, UPDATE, SUBSTRING, CHARINDEX, LEN, PARSENAME, CASE statements, CTEs, ROW_NUMBER, Windows functions, ALTER TABLE, DROP COLUMN
+Included: basic queries, CONVERT, UPDATE, SUBSTRING, CHARINDEX, LEN, PARSENAME, CASE statements, CTEs, ROW_NUMBER, Window functions, ALTER TABLE, DROP COLUMN.
 
 */
 
