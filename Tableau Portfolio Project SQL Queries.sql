@@ -1,6 +1,7 @@
 /*
 
-Queries used for Tableau Covid project
+Queries used for my Tableau Covid project
+Covid 19 Data Dashboard available in my Tableau profile @ https://public.tableau.com/app/profile/adam.s
 
 */
 
